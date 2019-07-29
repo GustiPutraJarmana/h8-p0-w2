@@ -47,9 +47,9 @@
             IF "pakaian" equals to 20
                 DISPLAY "nyalahkan mesin"
             ELSE
-                ADD "pakaian" by 1
                 DISPLAY "jangan nyalahkan mesin"
             ENDIF
+            ADD "pakaian" by 1
         ENDWHILE
 
 4. Periksa Kuku
