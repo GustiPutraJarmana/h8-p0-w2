@@ -69,7 +69,7 @@
             IF "kukuSiswaSiswi" equals to true
                 DO "menghukum"
             ELSE
-                DO "memuji"
+                DO "dipuji"
             ENDIF
             ADD "siswaSiswi" by 1
         ENDWHILE
